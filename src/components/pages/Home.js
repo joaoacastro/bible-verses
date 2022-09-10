@@ -3,7 +3,7 @@ import styles from "./Home.module.css";
 function Home() {
   return (
     <>
-      <h1 className={styles.title}>Welcome the hole online Bible!</h1>
+      <h1 className={styles.title}>Welcome the Hole Bible online!</h1>
     </>
   );
 }
